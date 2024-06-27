@@ -7,7 +7,8 @@ import io.cucumber.java.en.When;
 public class login {
     @Given("i am in the login page")
     public void i_am_in_the_login_page() {
-int x=7;
+//test branch 
+int x=6;
 
     }
     @When("i login with credientail")
