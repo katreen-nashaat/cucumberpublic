@@ -8,7 +8,7 @@ public class login {
     @Given("i am in the login page")
     public void i_am_in_the_login_page() {
 //test branch 
-int x=6;
+int x=62;
 
     }
     @When("i login with credientail")
